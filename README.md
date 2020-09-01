@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-Tanya having fun
+##### Me having fun
+
 [![Tanya's personal github stats](https://github-readme-stats.vercel.app/api?username=tanyapowell&theme=cobalt&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyapowell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Tanya being professional
+##### Me being professional
+
 [![Tanya's work github stats](https://github-readme-stats.vercel.app/api?username=tanya-harrys&theme=cobalt&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanya-harrys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
