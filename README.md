@@ -2,6 +2,10 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/tanya_powell?color=%231DA1F2&logo=twitter&style=for-the-badge)
 
+### Now Playing
+
+[![Spotify](https://tanya-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/loser995)
+
 ### Me having fun
 
 [![Tanya's personal github stats](https://github-readme-stats.vercel.app/api?username=tanyapowell&theme=cobalt&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
