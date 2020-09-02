@@ -17,6 +17,37 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanya-harrys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 218 Contributions in the Year 2020
+ > 
+> 📦 117.0 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 36 Public Repositories
+ > 
+> 🔑 12 Private Repositories 
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               17 repos            ████████████░░░░░░░░░░░░░   48.57% 
+HTML                     8 repos             █████░░░░░░░░░░░░░░░░░░░░   22.86% 
+CSS                      7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
+C#                       1 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/tanyapowell/tanyapowell/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 <!--
