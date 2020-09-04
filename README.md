@@ -17,17 +17,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanya-harrys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 224 Contributions in the Year 2020
+> 🏆 227 Contributions in the Year 2020
  > 
-> 📦 117.0 kB Used in Github's Storage 
+> 📦 117.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 37 Public Repositories
+> 📜 36 Public Repositories
  > 
 > 🔑 12 Private Repositories 
 
