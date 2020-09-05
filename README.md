@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=tanyapowell.dev&style=for-the-badge&url=https%3A%2F%2Ftanyapowell.dev)](https://tanyapowell.dev)
 
 ### I'm learning to live my unapologetic truth and I write code too
-- 🔭 During the day I'm currently working at [Harry's](https://harrys.com)
+- 🔭 During the day I'm currently working at [Harry's](https://github.com/tanya-harrys)
 - 👯 At night I’m working with the amazing people at [Coding Black Females](https://codingblackfemales.com/) and [Frocentric](https://github.com/frocentric)
 - 🌱 2021 goal: get into machine learning
 - 😄 Pronouns: She/Her
