@@ -35,6 +35,8 @@
  <img align="left" alt="tanyawritescode | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+</br>
+
 ### 🥳  Fun mode stats
 
 [![Tanya's personal github stats](https://github-readme-stats.vercel.app/api?username=tanyapowell&theme=cobalt&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
