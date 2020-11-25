@@ -77,9 +77,9 @@
 
 **🐱 My Github Data** 
 
-> 🏆 395 Contributions in the Year 2020
+> 🏆 400 Contributions in the Year 2020
  > 
-> 📦 122.8 kB Used in Github's Storage 
+> 📦 122.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,7 +101,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/tanyapowell/tanyapowell/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/tanyapowell/tanyapowell/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
