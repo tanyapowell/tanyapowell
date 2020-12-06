@@ -83,9 +83,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 39 Public Repositories
+> 📜 39 Public Repositories 
  > 
-> 🔑 13 Private Repositories 
+> 🔑 13 Private Repositories  
 
 **I Mostly Code in JavaScript** 
 
