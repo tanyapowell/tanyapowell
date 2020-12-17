@@ -73,20 +73,20 @@
 ### 🤗 More stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 433 Contributions in the Year 2020
+> 🏆 435 Contributions in the Year 2020
  > 
-> 📦 123.3 kB Used in Github's Storage 
+> 📦 121.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 39 Public Repositories 
  > 
 > 🔑 13 Private Repositories  
-
+ > 
 **I Mostly Code in JavaScript** 
 
 ```text
