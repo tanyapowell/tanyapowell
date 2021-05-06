@@ -73,13 +73,13 @@
 ### 🤗 More stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 131 Contributions in the Year 2021
+> 🏆 132 Contributions in the Year 2021
  > 
-> 📦 129.6 kB Used in Github's Storage 
+> 📦 129.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
