@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/heytanhey?color=%231DA1F2&logo=twitter&style=for-the-badge)
-[![Website](https://img.shields.io/website?label=tanyapowell.dev&style=for-the-badge&url=https%3A%2F%2Ftanyapowell.dev)](https://www.tanyapowell.dev)
+[![Website](https://img.shields.io/website?label=tanyapowell.dev&style=for-the-badge&url=https%3A%2F%2Fwww.tanyapowell.dev)](https://www.tanyapowell.dev)
 
 ### I'm learning to live my unapologetic truth and I write code too
 - 👯 Currently working at the amazing people at [Coding Black Females](https://codingblackfemales.com/) 
