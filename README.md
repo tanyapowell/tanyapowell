@@ -1,12 +1,11 @@
 ## Hi there 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/heytanhey?color=%231DA1F2&logo=twitter&style=for-the-badge)
-[![Website](https://img.shields.io/website?label=tanyapowell.dev&style=for-the-badge&url=https%3A%2F%2Ftanyapowell.dev)](https://tanyapowell.dev)
+[![Website](https://img.shields.io/website?label=tanyapowell.dev&style=for-the-badge&url=https%3A%2F%2Ftanyapowell.dev)](https://www.tanyapowell.dev)
 
 ### I'm learning to live my unapologetic truth and I write code too
-- 🔭 During the day I'm currently working at [Harry's](https://github.com/tanya-harrys)
-- 👯 At night I’m working with the amazing people at [Coding Black Females](https://codingblackfemales.com/) and [Frocentric](https://github.com/frocentric)
-- 🌱 2021 goal: get into machine learning
+- 👯 Currently working at the amazing people at [Coding Black Females](https://codingblackfemales.com/) 
+- 🌱 2021 goal: learn how to sew properly
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts: ♥️ cooking and Storm (X-Men) is my everything
 <!-- -  I’m looking to collaborate on ... -->
@@ -61,14 +60,10 @@
 
 ---
 
-### 🥳  Fun mode stats
+### 🥳  Stats
 
 [![Tanya's personal github stats](https://github-readme-stats.vercel.app/api?username=tanyapowell&theme=cobalt&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyapowell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### 👩🏾‍💻  Professional mode stats
-
-[![Tanya's work github stats](https://github-readme-stats.vercel.app/api?username=tanya-harrys&theme=cobalt&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤗 More stats
 
