@@ -72,24 +72,24 @@
 
 **🐱 My Github Data** 
 
-> 🏆 686 Contributions in the Year 2021
+> 🏆 695 Contributions in the Year 2021
  > 
-> 📦 131.6 kB Used in Github's Storage 
+> 📦 131.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 40 Public Repositories 
+> 📜 41 Public Repositories 
  > 
-> 🔑 16 Private Repositories  
+> 🔑 17 Private Repositories  
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               26 repos            █████████████░░░░░░░░░░░░   53.06% 
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
-CSS                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.08%
+JavaScript               26 repos            █████████████░░░░░░░░░░░░   52.0% 
+HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.0% 
+CSS                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
 
 ```
 
@@ -99,7 +99,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/tanyapowell/tanyapowell/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/08/2021
+ Last Updated on 13/08/2021
 <!--END_SECTION:waka-->
 
 <!--
