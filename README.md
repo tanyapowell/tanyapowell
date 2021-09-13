@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=tanyapowell.dev&style=for-the-badge&url=https%3A%2F%2Fwww.tanyapowell.dev)](https://www.tanyapowell.dev)
 
 ### I'm learning to live my unapologetic truth and I write code too
-- 👯 Currently working at the amazing people at [Coding Black Females](https://codingblackfemales.com/) 
+- 👯 Currently working at the amazing [Coding Black Females](https://codingblackfemales.com/) 
 - 🌱 2021 goal: learn how to sew properly
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts: ♥️ cooking and Storm (X-Men) is my everything
