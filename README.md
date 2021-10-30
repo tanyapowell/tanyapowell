@@ -72,9 +72,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 937 Contributions in the Year 2021
+> 🏆 938 Contributions in the Year 2021
  > 
-> 📦 136.2 kB Used in GitHub's Storage 
+> 📦 136.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,7 +99,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/tanyapowell/tanyapowell/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/10/2021
+ Last Updated on 30/10/2021
 <!--END_SECTION:waka-->
 
 <!--
