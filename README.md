@@ -72,15 +72,15 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 424 Contributions in the Year 2022
+> 🏆 433 Contributions in the Year 2022
  > 
-> 📦 134.5 kB Used in GitHub's Storage 
+> 📦 131.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 49 Public Repositories 
  > 
-> 🔑 20 Private Repositories  
+> 🔑 21 Private Repositories  
  > 
 **I Mostly Code in JavaScript** 
 
@@ -99,7 +99,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/tanyapowell/tanyapowell/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/04/2022 00:51:53 UTC
+ Last Updated on 30/04/2022 00:48:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
