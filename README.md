@@ -68,13 +68,13 @@
 ### 🤗 More stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 687 Contributions in the Year 2022
  > 
-> 📦 132.4 kB Used in GitHub's Storage 
+> 📦 132.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,7 +99,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/tanyapowell/tanyapowell/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/08/2022 12:48:48 UTC
+ Last Updated on 12/08/2022 00:49:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
