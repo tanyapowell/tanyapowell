@@ -68,7 +68,7 @@
 ### 🤗 More stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -99,7 +99,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/tanyapowell/tanyapowell/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/08/2022 00:50:19 UTC
+ Last Updated on 27/08/2022 12:42:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
