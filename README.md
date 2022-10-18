@@ -78,7 +78,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 50 Public Repositories 
+> 📜 49 Public Repositories 
  > 
 > 🔑 21 Private Repositories  
  > 
@@ -99,7 +99,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/tanyapowell/tanyapowell/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/10/2022 01:10:03 UTC
+ Last Updated on 18/10/2022 12:55:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
