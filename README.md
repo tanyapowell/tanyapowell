@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/heytanhey?color=%231DA1F2&logo=twitter&style=for-the-badge)
-[![Website](https://img.shields.io/website?label=tanyapowell.dev&style=for-the-badge&url=https%3A%2F%2Fheytanhey.com)](https://heytanhey.com)
+[![Website](https://img.shields.io/website?label=heytanhey.com&style=for-the-badge&url=https%3A%2F%2Fheytanhey.com)](https://heytanhey.com)
 
 ### I'm learning to live my unapologetic truth and I write code too
 - 😄 Pronouns: She/Her
@@ -11,25 +11,11 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 
-### 🎧 Now playing
-
-[![Spotify](https://tanya-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/loser995)
-
 ### 🗣 Talk with me
 
 <a href="https://heytanhey.com">
  <img align="left" alt="heytanhey.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCTncIFuwpC-yHlJv6q_Ml4g">
- <img align="left" alt="heytanhey" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://www.linkedin.com/in/tanyapowell/">
- <img align="left" alt="tanyapowell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://instagram.com/heytanhey">
- <img align="left" alt="tanyawritescode | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
 </br>
 
 ### 🛠 Tools and Languages
