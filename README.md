@@ -1,6 +1,6 @@
 ## Hi there, I'm Tanya
 
-### Founder of Rainforest Studio | CPTO @ Coding Black Females
+### Founder of Rainforest Studio | Co-CTO @ Coding Black Females
 
 I'm learning to live my unapologetic truth and I write code too. I build [Rainforest Studio](https://rainforeststudio.xyz), the Living Archive Platform. By day I lead technology at [Coding Black Females](https://codingblackfemales.com), the largest community of Black women in tech in the UK.
 
