@@ -1,8 +1,8 @@
 ## Hi, I'm Tanya
 
-Technologist and builder in London. I work in the open and keep coming back to one question. Who is the system built for, and who gets left out?
+Technologist and builder in London. I make tools for examining how AI and media represent people and events. I work in the open and keep coming back to one question. Who is the system built for, and who gets left out?
 
-I build [Rainforest Studio](https://rainforeststudio.xyz), a cultural RAG tool that centres community knowledge in AI, and I write and run experiments in public at [heytanhey.com](https://heytanhey.com) on AI discoverability, algorithmic suppression, the hidden costs of the AI economy, and the occasional oil-price forecast.
+I write and run experiments in public at [heytanhey.com](https://heytanhey.com), on AI discoverability, algorithmic suppression, the hidden costs of the AI economy, and the occasional oil-price forecast.
 
 - She/Her
 - Forever mentoring. Cooking is therapy. Storm (X-Men) is the entire personality.
